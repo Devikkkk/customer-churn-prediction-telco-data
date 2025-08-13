@@ -1,6 +1,6 @@
 # Telco Customer Churn - Full Analysis and Model Building
 
-This repository contains a complete end-to-end analysis and machine learning workflow for predicting customer churn using the **Telco Customer Churn dataset** sourced from [OpenML](https://www.openml.org/).  
+This repository contains a complete end-to-end analysis and machine learning workflow for predicting customer churn using the **Telco Customer Churn dataset** sourced from [OpenML]( https://www.openml.org/search?type=data&id=46280).  
 The goal of this project is to build predictive models capable of identifying customers who are likely to leave the service, enabling strategic customer retention actions.
 
 ---
@@ -61,7 +61,6 @@ Customer churn prediction is a critical business problem for subscription-based 
 - **Precision**
 - **Recall**
 - **F1-Score**
-- **ROC-AUC Score**
 - **Confusion Matrix**
 
 ---
